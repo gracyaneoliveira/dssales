@@ -1,5 +1,10 @@
 ## DS Sales - Dashboard
 
+## Application web
+<p align="center" >
+  <img src="https://github.com/gracyaneoliveira/dssales/blob/main/frontend/dashboard.png" alt="dashboard" width="750px"><br />
+</p>
+
 ```bash
 npx create-react-app front-web --template typescript
 
