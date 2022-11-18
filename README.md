@@ -1,7 +1,7 @@
 ## DS Sales - Dashboard
 
 <p align="center" >
-  <img src="https://github.com/gracyaneoliveira/dssales/blob/main/frontend/dashboard.png" alt="dashboard" width="546px"><br />
+  <img src="https://github.com/gracyaneoliveira/dssales/blob/main/frontend/dashboard.png" alt="dashboard" width="546px" onclick="return false;><br />
 </p>
 
 ```bash
