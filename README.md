@@ -8,4 +8,6 @@ yarn add react-flatpick
 yarn add @types/react-flat-pickr --dev
 
 yarn add react-apexcharts apexcharts
+
+yarn add axios
 ```
